@@ -1,3 +1,6 @@
+# SecurityIncidentAI
+AI-based system for Cybersecurity Incident Pattern Detection and Response Automation.
+
 # Security Incident Pattern Recognition and Response Optimization
 
 This project applies AI techniques to **Wazuh** security incident data to recognize patterns, forecast threats, detect anomalies, and recommend optimized automated responses via **Shuffle** playbooks. It is deployed in a private cloud homelab environment, with results optionally visualized in **Grafana**.
