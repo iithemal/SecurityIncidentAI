@@ -1,5 +1,5 @@
 # SOCIntel
-AI-based system for Cybersecurity Incident Pattern Detection and Response Automation.
+AI-based system for Security Incident Pattern Detection and Response Optimization.
 
 # Security Incident Pattern Recognition and Response Optimization
 
