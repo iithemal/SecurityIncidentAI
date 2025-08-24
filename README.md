@@ -126,17 +126,6 @@ SecurityIncidentAI/
 ├── scripts/             # Python scripts for integration & automation
 └── README.md
 ```
-
----
-
-## 📈 Evaluation Criteria
-- **Proposal & Planning**: 20
-- **Implementation & Innovation**: 30
-- **Functionality & Evaluation**: 20
-- **Final Report & Presentation**: 20
-- **Timely Submissions**: 10
-- **Bonus** (multi-source data, XAI, blog): +10
-
 ---
 
 ## 📌 Future Enhancements
